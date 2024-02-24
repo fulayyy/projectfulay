@@ -1,0 +1,10 @@
+<?php
+$username = "fulayfillah";
+$pass = "1111";
+
+if ($username == "fulayfillah" && $pass == "1111" ;){
+    echo "login berhasil";}
+else{
+    echo "login gagal, username atau pass salah" ;
+}
+?>
